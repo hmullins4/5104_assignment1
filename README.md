@@ -1,3 +1,3 @@
-# Statistical Data Analysis and Modeling in R
+# Exploratory Statistical Analysis, Data Wrangling, and Regression Modeling in R
 
 This project applied statistical analysis and data visualization techniques in R across several datasets to explore data structure, distributional assumptions, and model performance. I worked with the Iris, EUStockMarkets, Anscombe, Twitch, and Shopping datasets to practice data import/export, including converting data between CSV, JSON, and HDF5 formats, and to evaluate distributions using QQ plots, kernel density estimates, normality tests, and distribution fitting. I also built linear regression models, compared relationships across datasets, and assessed predictive performance using train-test splits and RMSE. Overall, the project demonstrated skills in data wrangling, exploratory data analysis, regression, hypothesis testing, and statistical modeling.
